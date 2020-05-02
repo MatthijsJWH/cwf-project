@@ -26,7 +26,7 @@ export default function HomeScreen() {
           <Text style={styles.getStartedText}>Open up the code for this screen:</Text>
 
           <View style={[styles.codeHighlightContainer, styles.homeScreenFilename]}>
-            <MonoText>screens/HomeScreen.js</MonoText>
+            <MonoText>screens/HomeScreen.jsx</MonoText>
           </View>
 
           <Text style={styles.getStartedText}>
@@ -45,7 +45,7 @@ export default function HomeScreen() {
         <Text style={styles.tabBarInfoText}>This is a tab bar. You can edit it in:</Text>
 
         <View style={[styles.codeHighlightContainer, styles.navigationFilename]}>
-          <MonoText style={styles.codeHighlightText}>navigation/BottomTabNavigator.js</MonoText>
+          <MonoText style={styles.codeHighlightText}>navigation/BottomTabNavigator.jsx</MonoText>
         </View>
       </View>
     </View>
